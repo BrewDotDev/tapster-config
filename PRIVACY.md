@@ -35,4 +35,4 @@ If this policy changes, we'll update this page and the date above.
 
 ## Contact
 
-Questions? Email [zsedbal@gmail.com](mailto:zsedbal@gmail.com).
+Questions? Email [balazs@brew.dev](mailto:balazs@brew.dev).

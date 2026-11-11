@@ -1,3 +1,5 @@
 {
-  "dailyMinBuild": 1
+  "changes": [
+    { "version": 1, "fromDay": 1, "note": "Launch: pint and half pint" }
+  ]
 }
